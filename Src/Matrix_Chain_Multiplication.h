@@ -3,6 +3,8 @@
  *
  *  Created on: Mar 1, 2023
  *      Author: vinht
+ *  Description: This application demonstrates distributed computations among STM32F407 and Arduino MCU boards
+ *    This source file is included in STM32 project whilst matrix_mult.ino file should be uploaded to Arduino board
  */
 
 #pragma once
